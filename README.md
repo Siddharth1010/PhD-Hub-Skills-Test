@@ -1,6 +1,6 @@
 # PhD Hub Graduate Assistant Test
 
-This README contains an overview of the changes I have made to the existing NYU Professional Development for PhD Students Leadership page and the reasons for doing so.
+This README contains an overview of the changes I have made to the existing NYU Professional Development for PhD Students Leadership page and the reasons for doing so. Thank you so much for taking the time to review these updates. I would love to leverage your feedback to work on developing other web pages and websites for NYU Tandon's PhD Hub.
 
 Please find the updated webpage at this [link](https://siddharth1010.github.io/PhD-Hub-Skills-Test/)
 
