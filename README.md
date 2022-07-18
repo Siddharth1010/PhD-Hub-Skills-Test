@@ -49,7 +49,7 @@ Most websites currently have a button that enables users to scroll back to the t
 # Alert Box
 
 <p align="justify">
-Currently, the alert section of the webpage resides at the bottom along with the regsiter button. In case there are many event, the user may not come across it and may thereby register for events without understanding the conditions and other requirements. Having a dismissable alert at the beginning of the page will ensure that users notice them as soon as the page loads.
+Currently, the alert section of the webpage resides at the bottom along with the regsiter button. In case there are many events, the user may not come across it and thereby register for events without understanding the conditions and other requirements. Having a dismissable alert at the beginning of the page will ensure that users notice them as soon as the page loads.
 </p>
 
 <p align="center">
