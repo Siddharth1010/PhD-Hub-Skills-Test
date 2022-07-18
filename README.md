@@ -60,9 +60,12 @@ Currently, the alert section of the webpage resides at the bottom along with the
 # Header and Footer
 
 <p align="justify">
-The header and footer have been replicated as follows the design principles and colour codes as NYU Tandon's official website. The existing sub-header containing the links of the path followed to the current webpage is a really nice touch and has a very specific purpose.
+The header and footer have been replicated as follows the design principles and colour codes as NYU Tandon's official website. The only change I have made is to make the navbar elements match the background colour of their dropdown menus on hover. The existing sub-header containing the links of the path followed to the current webpage is a really nice touch and has a very specific purpose.
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59433969/179448001-10cc765d-7c4a-4cd0-9fb1-68ac26c1d7af.gif" alt="animated" width="600" />
+</p>
 
 
 
